@@ -58,27 +58,16 @@ Credits
 Authors
 ~~~~~~~
 
-* Antiun Ingeniería S.L.
+* Intresco S.A.S
 
 Contributors
 ~~~~~~~~~~~~
 
-* Rafael Blasco <rafaelbn@antiun.com>
-* Jairo Llopis <yajo.sk8@gmail.com>
-* Tharathip Chaweewongphan <tharathipc@ecosoft.co.th>
+* Nelson Velez <nvelez@intresco.co>
+* Andres Gaviria <agaviria@intresco.co>
+* Daniel Giraldo <dgiraldo@intresco.co>
 
-Maintainers
-~~~~~~~~~~~
 
-This module is maintained by the OCA.
-
-.. image:: https://odoo-community.org/logo.png
-   :alt: Odoo Community Association
-   :target: https://odoo-community.org
-
-OCA, or the Odoo Community Association, is a nonprofit organization whose
-mission is to support the collaborative development of Odoo features and
-promote its widespread use.
 
 This module is part of the `OCA/crm <https://github.com/OCA/crm/tree/13.0/crm_lead_vat>`_ project on GitHub.
 
