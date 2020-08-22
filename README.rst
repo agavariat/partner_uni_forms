@@ -1,5 +1,5 @@
 ============
-VAT in leads
+Formulario Uniminuto -CRM
 ============
 
 .. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -67,8 +67,3 @@ Contributors
 * Andres Gaviria <agaviria@intresco.co>
 * Daniel Giraldo <dgiraldo@intresco.co>
 
-
-
-This module is part of the `OCA/crm <https://github.com/OCA/crm/tree/13.0/crm_lead_vat>`_ project on GitHub.
-
-You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.
